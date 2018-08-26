@@ -1,19 +1,14 @@
 ---
 name: Capsule
-description: Capsule is a private group and event based sharing platform built on
-  the premise that most real-life networks are born and die around shared experiences.
-  Capsule makes it easy for users to plan events, share and communicate, and preserve
-  memories in a context-rich space.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capsule-crm.png
+x-slug: capsule
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- CRM
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/crm/master/_listings/capsule/apis.yaml
+x-alexaRank: "35967"
+tags: CRM
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/capsule/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -21,6 +16,10 @@ x-common:
   url: http://sample.capsulecrm.com
 - type: x-developer
   url: http://developer.capsulecrm.com/
+- type: x-email
+  url: support@capsulecrm.com
+- type: x-email
+  url: hello@capsulecrm.com
 - type: x-twitter
   url: https://twitter.com/CapsuleCRM
 - type: x-website

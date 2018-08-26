@@ -1,28 +1,17 @@
 ---
 name: Freespee
-description: Freespee offers location-based, mobile click-to-call advertising and
-  analytics that enable enterprises and business owners to confidently shift ad spend
-  from the desktop to mobile. Combining an analytics solution that enables insights
-  well beyond the click, and click-to-call rich media ad units that gives consumers
-  the most intuitive interface, Freespee brings the possibility of one-click conversion
-  to any smartphone. Freespee is trusted by leading media companies and by 35,000+
-  advertisers, including top international brands. Its solutions have connected millions
-  of calls on behalf of advertisers, all the while growing Europersquo;s most comprehensive
-  dataset on mobile consumer call behavior. The company has commercial offices in
-  Berlin, Copenhagen and Helsinki and a development center in Uppsala, Sweden.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1061_logo.png
+x-slug: freespee
+description: Freespee is the only customer communication platform that allows businesses
+  and their website visitors or app users to talk in real-time via any interface,
+  typed or spoken.    Freespee???s Conversation Cloud is designed to humanise online
+  commerce operat...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1061-freespee.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Voice
-- Voice
-- Telco
-- Stack Network
-- Monetization
-- CRM
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/crm/master/_listings/freespee/apis.yaml
+x-alexaRank: "1546834"
+tags: CRM
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freespee/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -34,6 +23,12 @@ x-common:
   url: http://feeds2.feedburner.com/Freespee
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/freespee
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/freespee
+- type: x-email
+  url: hello@freespee.com
+- type: x-email
+  url: legal@freespee.com
 - type: x-github
   url: https://github.com/freespeedreader
 - type: x-twitter

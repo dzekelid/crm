@@ -1,36 +1,30 @@
 ---
 name: Accelo
-description: Founded in 1997, affilinet is one of the most established affiliate networks
-  in Europe, offering unrivalled experience, knowledge and heritage in the marketplace.  With
-  presence in 7 countries across Europe, affilinet have over 2,000 affiliate programs
-  on the network.nnaffilinet focuses on generating ROI for its clients utilising the
-  affiliate channel to drive sales and leads for brands from a broad range of industries
-  including travel, retail, finance, telecommunications, not-for-profit, FMCG and
-  automotive.  Clients include Toyota, Galeries Lafayette, Zalando, eBay, Telekom,
-  Groupon, Debenhams, Landrover, Virgin Atlantic, ToysRUs, Guess and KLM. nnaffilinet
-  and sister company Sedo are owned by Sedo Holding, formerly known as AdLINK Group.
-image: https://avatars3.githubusercontent.com/u/19586355?v=4
+x-slug: accelo
+description: 'The #1 Service Operations Automation (ServOps) featuring sales, project
+  management, email integration, retainer management, sales tracking, and support.'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/320-accelo.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Sales
-- Project Management
-- Project Management
-- Politics
-- Invoicing
-- Customer
-- CRM
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/crm/master/_listings/accelo/apis.yaml
+x-alexaRank: "105620"
+tags: CRM
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/accelo/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-blog
   url: https://www.accelo.com/resources/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/affinitylive
+- type: x-developer
+  url: https://api.accelo.com/docs/?_ga=2.33722019.342188080.1527277082-882498665.1527277082
 - type: x-developer
   url: https://www.accelo.com/resources/apis/
+- type: x-email
+  url: support@accelo.com
+- type: x-email
+  url: sales@accelo.com
 - type: x-github
   url: https://github.com/accelo
 - type: x-twitter

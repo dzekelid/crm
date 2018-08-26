@@ -1,19 +1,15 @@
 ---
 name: OnePageCRM
-description: OnePage is a web-based sales app that produces amazing results. It combines
-  a proven sales methodology with the elements of CRM to greatly increase sales. We
-  call it Persistent focus on sales actions, and it means you???ll never drop the
-  ball with a prospect again!
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/874_logo.png
+x-slug: onepagecrm
+description: OnePageCRM is a simple online sales CRM for you & your sales team. Focus
+  on your Next Action to easily convert leads into customers and grow your business.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/874-onepagecrm.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- CRM
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/crm/master/_listings/onepagecrm/apis.yaml
+x-alexaRank: "122945"
+tags: CRM
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/onepagecrm/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -25,8 +21,16 @@ x-common:
   url: http://www.onepagecrm.com/blog/?feed=rss2
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/onepagecrm
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/onepagecrm
 - type: x-developer
   url: http://developer.onepagecrm.com/
+- type: x-email
+  url: support@onepagecrm.com
+- type: x-email
+  url: privacy@onepagecrm.com
+- type: x-email
+  url: evelynod@onepagecrm.com
 - type: x-github
   url: https://github.com/OnePageCRM
 - type: x-twitter

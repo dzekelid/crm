@@ -1,21 +1,15 @@
 ---
 name: Campaign Monitor
-description: Campaign Monitor is simple and elegant email marketing software for business.
-  Millions of marketing professionals at more than 150,000 companies around the world,
-  including BuzzFeed, BirchBox, Coca-Cola, Disney, Rip Curl and the San Diego Chargers,
-  use Campaign Monitor to run email marketing campaigns that deliver results for their
-  business.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/383_logo.png
+x-slug: campaign-monitor
+description: Campaign Monitor makes it easy for you to create, send, and optimize
+  your email marketing campaigns.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/383-campaign-monitor.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- Email Marketing
-- CRM
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/crm/master/_listings/campaign-monitor/apis.yaml
+x-alexaRank: "24393"
+tags: CRM
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/campaign-monitor/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -26,9 +20,13 @@ x-common:
 - type: x-blog-rss
   url: http://campaignmonitor.com/feeds/blog
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/campaign-monitor
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/campaign-monitor
 - type: x-developer
   url: https://www.campaignmonitor.com/api/
+- type: x-email
+  url: info@campaignmonitor.com
 - type: x-github
   url: https://github.com/campaignmonitor
 - type: x-twitter
