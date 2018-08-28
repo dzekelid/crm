@@ -1,0 +1,565 @@
+{
+	"name": "Streadata.io API Gallery - CRM",
+	"description": "This is a repository of crm APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/crm.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://crm.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Constant Contact",
+			"x-api-slug": "constant-contact",
+			"description": "With Constant Contact, you can create effective email marketing and other online marketing campaigns to meet your business goals. Start your FREE trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/171-constant-contact.jpg",
+			"humanURL": "http://blogs.constantcontact.com",
+			"baseURL": "https://api.constantcontact.com//v2",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/constant-contact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Salesforce",
+			"x-api-slug": "salesforce",
+			"description": "Build more meaningful and lasting relationships and connect with your customers across sales, customer service, marketing, communities, apps, analytics, and more using our Customer Success Platform. Try for Free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg",
+			"humanURL": "http://developer.salesforce.com",
+			"baseURL": "https://na14.salesforce.com//services/data/",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/salesforce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FullContact",
+			"x-api-slug": "fullcontact",
+			"description": "Build a clearer picture of your customers in minutes with our data-focused APIs. Manage your personal or teams contacts with our contact apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/205-fullcontact.jpg",
+			"humanURL": "http://fullcontact.com",
+			"baseURL": "https://api.fullcontact.com//",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/fullcontact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "iContact",
+			"x-api-slug": "icontact",
+			"description": "iContact provides an email marketing solution thats instant and easy. Start seeing ROI and send emails today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/215-icontact.jpg",
+			"humanURL": "http://developer.icontact.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/icontact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Accelo",
+			"x-api-slug": "accelo",
+			"description": "The #1 Service Operations Automation (ServOps) featuring sales, project management, email integration, retainer management, sales tracking, and support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/320-accelo.jpg",
+			"humanURL": "https://www.accelo.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/accelo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "agendize",
+			"x-api-slug": "agendize",
+			"description": "Agendize is the most complete customer engagement platform on the market, providing over 100,000 businesses with customizable ways to let their customers call, chat, book appointments and more.    As a leading provider of these solutions, Agendize has ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/322-agendize.jpg",
+			"humanURL": "http://www.agendize.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/agendize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Campaign Monitor",
+			"x-api-slug": "campaign-monitor",
+			"description": "Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/383-campaign-monitor.jpg",
+			"humanURL": "http://www.campaignmonitor.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/campaign-monitor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Capsule",
+			"x-api-slug": "capsule",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://capsulecrm.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/capsule/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FreeAgent",
+			"x-api-slug": "freeagent",
+			"description": "FreeAgents online accounting software brings everything together, from invoices and expenses to VAT, payroll and tax return filing. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/407-freeagent.jpg",
+			"humanURL": "http://www.freeagent.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freeagent/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PipelineDeals",
+			"x-api-slug": "pipelinedeals",
+			"description": "Customer relationship management (CRM) and sales pipeline management software to organize, track, and manage your sales pipeline, deals, leads, and contacts. 14 Day Free Trial for your sales force.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/457-pipelinedeals.jpg",
+			"humanURL": "https://www.pipelinedeals.com",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/pipelinedeals/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tactile CRM",
+			"x-api-slug": "tactile-crm",
+			"description": "Easy and simple to use affordable Web Based CRM. Contact management, sales pipeline reporting & email management from 6/$9/month",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/493-tactile-crm.jpg",
+			"humanURL": "http://www.tactilecrm.com/api/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/tactile-crm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Workbooks.com",
+			"x-api-slug": "workbooks-com",
+			"description": "Workbooks&#8217; solutions are designed for the needs of small and medium sized businesses providing you with the right tools to make your business more successful. They are fast and easy to use, competitively priced and as there&#8217;s no hardware or software required, Workbooks is quick to implement - you can be up and running in days; what???????s more you can access your data from anywhere with an Internet connection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/677_logo.png",
+			"humanURL": "http://www.workbooks.com/workbooks-api",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/workbooks-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Freshdesk",
+			"x-api-slug": "freshdesk",
+			"description": "An online cloud-based customer service software providing helpdesk support with all smart automations to get things done faster. Sign up for a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/797-freshdesk.jpg",
+			"humanURL": "https://zootrock.freshdesk.com/solution/articles/4000065689-slack",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freshdesk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MailerLite",
+			"x-api-slug": "mailerlite",
+			"description": "Email Marketing Software for Small Businesses, Professional Bloggers and Authors. All plans include drag-and-drop email builder, automation & landing pages. As well as unlimited emails & 24/7 customer support. Sign up for free and start sending beautif...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/842-mailerlite.jpg",
+			"humanURL": "https://www.mailerlite.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/mailerlite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OnePageCRM",
+			"x-api-slug": "onepagecrm",
+			"description": "OnePageCRM is a simple online sales CRM for you & your sales team. Focus on your Next Action to easily convert leads into customers and grow your business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/874-onepagecrm.jpg",
+			"humanURL": "http://www.onepagecrm.com",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/onepagecrm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Podio",
+			"x-api-slug": "podio",
+			"description": "Streamline and sync your teams projects and workflow with Podio. Experience why PC Mag named Podio Best Online Collaboration Software in 2016. Start for free!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/900-podio.jpg",
+			"humanURL": "https://podio.com",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/podio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coffee Bean Tech",
+			"x-api-slug": "coffee-bean-tech",
+			"description": "Customer Identity to increase revenue, customer retention and customer experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1001-coffee-bean-tech.jpg",
+			"humanURL": "http://coffeebeantech.com",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/coffee-bean-tech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Freespee",
+			"x-api-slug": "freespee",
+			"description": "Freespee is the only customer communication platform that allows businesses and their website visitors or app users to talk in real-time via any interface, typed or spoken.    Freespee???s Conversation Cloud is designed to humanise online commerce operat...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1061-freespee.jpg",
+			"humanURL": "http://support.freespee.com/hc/en-us/categories/preview?developers",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freespee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Base",
+			"x-api-slug": "base",
+			"description": "Base built the first scientific sales platform that empowers businesses to grow revenue in a way thats measurable, repeatable and scalable. Unlike legacy cloud CRM and sales force automation systems, Base offers an all-in-one solution that increases r...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1063-base.jpg",
+			"humanURL": "https://getbase.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/base/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blueleaf Advisor",
+			"x-api-slug": "blueleaf-advisor",
+			"description": "Blueleaf increases the revenue of financial advisors by helping them win more clients, growing existing clients and driving referrals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1313-blueleaf-advisor.jpg",
+			"humanURL": "http://www.blueleaf.com/developer/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/blueleaf-advisor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nutshell",
+			"x-api-slug": "nutshell",
+			"description": "Nutshell is the user-friendly small business CRM that helps sales reps win more deals, with sales process automation, fast onboarding, and free support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1346-nutshell.jpg",
+			"humanURL": "https://www.nutshell.com/api/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/nutshell/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cobot",
+			"x-api-slug": "cobot",
+			"description": "Cobot is the leading management software for coworking spaces, office hubs, and flexible workspaces around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1374-cobot.jpg",
+			"humanURL": "https://www.cobot.me",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/cobot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Helpshift",
+			"x-api-slug": "helpshift",
+			"description": "Deliver superior support with Helpshift, a customer service platform designed to improve customer satisfaction, optimize service operations and maximize ROI. Our AI-first, bot-powered support software will help you scale the customer experience while m...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1423-helpshift-sdk.jpg",
+			"humanURL": "http://www.helpshift.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/helpshift/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SimplyCast",
+			"x-api-slug": "simplycast",
+			"description": "All-in-one platform that allows you to discover, organize, and communicate with your leads over all channels of communication",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1476-simplycast.jpg",
+			"humanURL": "http://www.simplycast.com/api",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/simplycast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Contactually",
+			"x-api-slug": "contactually",
+			"description": "Contactually is an intelligent CRM for real estate professionals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1613-contactually.jpg",
+			"humanURL": "http://contactually.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/contactually/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NeonCRM",
+			"x-api-slug": "neoncrm",
+			"description": "Thousands of nonprofits use Neons nonprofit CRM to manage their fundraising, membership, events, and website  and ultimately grow their organization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2075-neoncrm-by-z2systems.jpg",
+			"humanURL": "http://www.z2systems.com/",
+			"baseURL": "https:///",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/neoncrm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "3dcart",
+			"x-api-slug": "3dcart",
+			"description": "The 3dcart shopping cart software is a complete web store solution for anyone looking to start an online business, add a shopping cart to their existing website, or to replace their existing shopping cart platform. 3dcart includes the latest, most innovative features, tools, support and technology needed to build, promote and grow your online business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21488-www-3dcart-com.jpg",
+			"humanURL": "http://www.3dcart.com",
+			"baseURL": "https://apirest.3dcart.com//",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/3dcart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SalesLoft",
+			"x-api-slug": "salesloft",
+			"description": "SalesLoft, the leading sales engagement platform, transforms the way sellers engage with their customers by delivering a better selling experience. Our sales engagement platform helps teams set and execute on a cadence of phone, email, and social communications to convert more target accounts into customer accounts. The platform equips sales leaders with new capabilities to test, learn and adapt to ensure their sales reps execute on the most effective selling process for their account-based approach. SalesLoft delivers access to an extensive ecosystem of 3rd party integrations allowing teams to perform all their sales engagement from a single platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png",
+			"humanURL": "http://salesloft.com",
+			"baseURL": "https://api.salesloft.com//",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/salesloft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Data2CRM",
+			"x-api-slug": "data2crm",
+			"description": "Data2CRM is all-in-one master touch instrument to create the perfect data environment for prosperous internal and external connections.Data2CRM.API, a Unified API Provider, to Connect Your Business Software with 17+ CRMs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data2crm-logo.png",
+			"humanURL": "http://data2crm.com",
+			"baseURL": "https://api.data2crm.com:80//v1",
+			"tags": "CRM",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/data2crm/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "CRM",
+	"include": [
+		{
+			"name": "Constant Contact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/constant-contact/apis.yaml"
+		},
+		{
+			"name": "Salesforce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/salesforce/apis.yaml"
+		},
+		{
+			"name": "FullContact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/fullcontact/apis.yaml"
+		},
+		{
+			"name": "iContact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/icontact/apis.yaml"
+		},
+		{
+			"name": "Accelo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/accelo/apis.yaml"
+		},
+		{
+			"name": "agendize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/agendize/apis.yaml"
+		},
+		{
+			"name": "Campaign Monitor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/campaign-monitor/apis.yaml"
+		},
+		{
+			"name": "Capsule",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/capsule/apis.yaml"
+		},
+		{
+			"name": "FreeAgent",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freeagent/apis.yaml"
+		},
+		{
+			"name": "PipelineDeals",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/pipelinedeals/apis.yaml"
+		},
+		{
+			"name": "Tactile CRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/tactile-crm/apis.yaml"
+		},
+		{
+			"name": "Workbooks.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/workbooks-com/apis.yaml"
+		},
+		{
+			"name": "Freshdesk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freshdesk/apis.yaml"
+		},
+		{
+			"name": "MailerLite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/mailerlite/apis.yaml"
+		},
+		{
+			"name": "OnePageCRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/onepagecrm/apis.yaml"
+		},
+		{
+			"name": "Podio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/podio/apis.yaml"
+		},
+		{
+			"name": "Coffee Bean Tech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/coffee-bean-tech/apis.yaml"
+		},
+		{
+			"name": "Freespee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/freespee/apis.yaml"
+		},
+		{
+			"name": "Base",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/base/apis.yaml"
+		},
+		{
+			"name": "Blueleaf Advisor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/blueleaf-advisor/apis.yaml"
+		},
+		{
+			"name": "Nutshell",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/nutshell/apis.yaml"
+		},
+		{
+			"name": "Cobot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/cobot/apis.yaml"
+		},
+		{
+			"name": "Helpshift",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/helpshift/apis.yaml"
+		},
+		{
+			"name": "SimplyCast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/simplycast/apis.yaml"
+		},
+		{
+			"name": "Contactually",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/contactually/apis.yaml"
+		},
+		{
+			"name": "NeonCRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/neoncrm/apis.yaml"
+		},
+		{
+			"name": "3dcart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/3dcart/apis.yaml"
+		},
+		{
+			"name": "SalesLoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/salesloft/apis.yaml"
+		},
+		{
+			"name": "Data2CRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/data2crm/apis.yaml"
+		}
+	]
+}

@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/874-onepag
 x-kinRank: "8"
 x-alexaRank: "122945"
 tags: CRM
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/crm/master/_listings/onepagecrm/apis.md
 specificationVersion: "0.14"
 apis: []
